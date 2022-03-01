@@ -63,5 +63,15 @@
         bool isNumber =  int.TryParse(input2, out result);
         Console.WriteLine(number +" "+ isNumber);
         #endregion
+
+        #region Arrays
+        /*
+        An array is a collection of similar data types.
+
+        Adv - Array are strongly typed.
+        Dis - Arrays cannot grow in size once initialized.
+        Have to rely on integral indices to store or retrieve items from the array.
+        */
+        #endregion
     }
 }
