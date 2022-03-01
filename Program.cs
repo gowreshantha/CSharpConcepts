@@ -34,5 +34,34 @@
         Console.WriteLine("AvailableTickets = {0} and Totals = {1} ",AvailableTickets,Totals);
         #endregion
 
+        #region Implicit and Explicit coversion
+        /*
+          Implict conversion is done by the compiler:
+          - When there  is no loss of information if the conversion is done
+          - If there is no possibility of throwing exceptions during the conversion
+
+          Ex: Converting an int to a float will not loose any date and no exception will be thrown, 
+          hence an implicit conversion can be done.
+
+          When converting a float to an int, we loose the frational part and also a possibility of overflow exception. hence, 
+          in this case an explicit conversion is required.
+          For explict conversion we can use cast operator or the convert class in c#
+
+          Diff b/w Parse and TryParse
+          If the number is in a string format you have 2 options
+          -Parse() and TryParse()
+
+          Parse() method throws an exception if it cannot parse the value,
+          whereas TryParse() returns a bool indicating whether it succeeded or failed.
+
+          Use Parse() if you are sure the value will be valid, otherwise use tryParse()
+         */
+
+        string input = "100", input2 = "200N";
+        int number = int.Parse(input);
+        int result = 0;
+        int.TryParse(input2, out result);
+        Console.WriteLine(number +" "+ result);
+        #endregion
     }
 }
