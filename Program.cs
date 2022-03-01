@@ -10,7 +10,9 @@
          * Decimal types
          * String type
          */
+        Console.WriteLine("Minimum Value int : "+int.MinValue+ " Maximum Value int : " + int.MaxValue);
+        Console.WriteLine("Minimum Value float : " + float.MinValue + " Maximum Value float : " + float.MaxValue);
         #endregion
-     
+
     }
 }
