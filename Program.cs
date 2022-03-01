@@ -60,8 +60,8 @@
         string input = "100", input2 = "200N";
         int number = int.Parse(input);
         int result = 0;
-        int.TryParse(input2, out result);
-        Console.WriteLine(number +" "+ result);
+        bool isNumber =  int.TryParse(input2, out result);
+        Console.WriteLine(number +" "+ isNumber);
         #endregion
     }
 }
