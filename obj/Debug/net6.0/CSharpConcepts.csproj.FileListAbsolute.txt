@@ -1,0 +1,15 @@
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\CSharpConcepts.exe
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\CSharpConcepts.deps.json
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\CSharpConcepts.runtimeconfig.json
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\CSharpConcepts.dll
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\ref\CSharpConcepts.dll
+C:\Users\gowresh.n\source\repos\CSharpConcepts\bin\Debug\net6.0\CSharpConcepts.pdb
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.AssemblyInfoInputs.cache
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.AssemblyInfo.cs
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.csproj.CoreCompileInputs.cache
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.dll
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\ref\CSharpConcepts.dll
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.pdb
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.genruntimeconfig.cache
+C:\Users\gowresh.n\source\repos\CSharpConcepts\obj\Debug\net6.0\CSharpConcepts.csproj.AssemblyReference.cache

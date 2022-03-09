@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecc10a64-c11f-4f58-af46-806f123306c3": {
+      "ProjectGuid": "ecc10a64-c11f-4f58-af46-806f123306c3",
+      "DisplayName": "CSharpConcepts",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
