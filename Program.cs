@@ -1,4 +1,8 @@
-﻿public class Program
+﻿using CSharpConcepts;
+/// <summary>
+/// C# Concepts
+/// </summary>
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -72,6 +76,10 @@
         Dis - Arrays cannot grow in size once initialized.
         Have to rely on integral indices to store or retrieve items from the array.
         */
+        #endregion
+
+        #region A Simple Coffee program used conditions and loops
+        ProgramCoffee.CoffeeProcess();
         #endregion
     }
 }
