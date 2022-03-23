@@ -24,7 +24,7 @@
            int i = 0 (i is non nullable, i cannot be set to null, i = null will generate compiler error)
            int? j = 0 (is is nullable int, so j=null is legal)
 
-           Nullable types brdge the diff b/w C# types and Database types
+           Nullable types bridge the diff b/w C# types and Database types
             
            Null Coalescing Opertaor:
          */
