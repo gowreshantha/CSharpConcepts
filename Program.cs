@@ -85,7 +85,7 @@ public class Program
 
         #region Non Generic & Generic Collections
         //Non Generic are ArrayList, Hastbale etc
-        //Generic are List<>, Dictionary<>
+        //Generic are List<>, Dictionary<>, Queue & Stack
         #endregion
 
         #region Extension Methods

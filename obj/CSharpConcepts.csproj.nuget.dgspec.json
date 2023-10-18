@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gowresh.n\\Source\\Repos\\CSharpConcepts\\CSharpConcepts.csproj": {}
+    "C:\\Users\\gowresh.n\\source\\repos\\CSharpConcepts\\CSharpConcepts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gowresh.n\\Source\\Repos\\CSharpConcepts\\CSharpConcepts.csproj": {
+    "C:\\Users\\gowresh.n\\source\\repos\\CSharpConcepts\\CSharpConcepts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gowresh.n\\Source\\Repos\\CSharpConcepts\\CSharpConcepts.csproj",
+        "projectUniqueName": "C:\\Users\\gowresh.n\\source\\repos\\CSharpConcepts\\CSharpConcepts.csproj",
         "projectName": "CSharpConcepts",
-        "projectPath": "C:\\Users\\gowresh.n\\Source\\Repos\\CSharpConcepts\\CSharpConcepts.csproj",
+        "projectPath": "C:\\Users\\gowresh.n\\source\\repos\\CSharpConcepts\\CSharpConcepts.csproj",
         "packagesPath": "C:\\Users\\gowresh.n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gowresh.n\\Source\\Repos\\CSharpConcepts\\obj\\",
+        "outputPath": "C:\\Users\\gowresh.n\\source\\repos\\CSharpConcepts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\gowresh.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
